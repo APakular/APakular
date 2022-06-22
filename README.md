@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @APakular
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on any kind of projects as long as I can learn new things.
+- 📫 You can reach me at alexpakular@gmail.com
